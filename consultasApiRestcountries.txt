@@ -1,0 +1,121 @@
+
+
+1. https://restcountries.com/v3.1/all
+"name": {
+            "common": "Mauritania",
+            "official": "Islamic Republic of Mauritania",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية الإسلامية الموريتانية",
+                    "common": "موريتانيا"
+
+
+2.https://restcountries.com/v3.1/name/kenya
+"name": {
+            "common": "Kenya",
+            "official": "Republic of Kenya",
+            "nativeName": {
+                "eng": {
+
+
+3. https://restcountries.com/v3.1/name/panama?fullText=true
+"name": {
+            "common": "Panama",
+            "official": "Republic of Panama",
+            "nativeName": {
+                "spa": {
+                    "official": "República de Panamá",
+                    "common": "Panamá"
+
+
+4. https://restcountries.com/v3.1/alpha/ar
+ "name": {
+            "common": "Argentina",
+            "official": "Argentine Republic",
+            "nativeName": {
+                "grn": {
+                    "official": "Argentine Republic",
+                    "common": "Argentina"
+
+
+5. https://restcountries.com/v3.1/alpha?codes=rus;per;at
+ "name": {
+            "common": "Russia",
+            "official": "Russian Federation",
+            "nativeName": {
+                "rus": {
+                    "official": "Российская Федерация",
+                    "common": "Россия"
+
+
+6. https://restcountries.com/v3.1/currency/yen
+ "name": {
+            "common": "Japan",
+            "official": "Japan",
+            "nativeName": {
+                "jpn": {
+                    "official": "日本",
+                    "common": "日本"
+
+
+7. https://restcountries.com/v3.1/lang/pol
+"name": {
+            "common": "Poland",
+            "official": "Republic of Poland",
+            "nativeName": {
+                "pol": {
+                    "official": "Rzeczpospolita Polska",
+                    "common": "Polska"
+
+
+8. https://restcountries.com/v3.1/capital/qu
+"name": {
+            "common": "Ecuador",
+            "official": "Republic of Ecuador",
+            "nativeName": {
+                "spa": {
+                    "official": "República del Ecuador",
+                    "common": "Ecuador"
+
+
+9. https://restcountries.com/v2/callingcode/41
+"name": "Switzerland",
+        "topLevelDomain": [
+            ".ch"
+        ],
+        "alpha2Code": "CH",
+        "alpha3Code": "CHE",
+        "callingCodes": [
+            "41"
+
+
+10. https://restcountries.com/v2/region/asia
+ "name": "Afghanistan",
+        "topLevelDomain": [
+            ".af"
+        ],
+        "alpha2Code": "AF",
+        "alpha3Code": "AFG",
+        "callingCodes": [
+            "93"
+
+
+11. https://restcountries.com/v2/regionalbloc/cefta
+"name": "Albania",
+        "topLevelDomain": [
+            ".al"
+        ],
+        "alpha2Code": "AL",
+        "alpha3Code": "ALB",
+        "callingCodes": [
+            "355"
+
+
+12. https://restcountries.com/v3.1/all?fields=name;capital;currencies
+ "name": {
+            "common": "Mauritania",
+            "official": "Islamic Republic of Mauritania",
+            "nativeName": {
+                "ara": {
+                    "official": "الجمهورية الإسلامية الموريتانية",
+                    "common": "موريتانيا"
